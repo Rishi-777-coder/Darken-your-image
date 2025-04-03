@@ -33,5 +33,3 @@ try:
 
 except FileNotFoundError:
     print("File not found.")
-
-logo = logo.astype(float)
